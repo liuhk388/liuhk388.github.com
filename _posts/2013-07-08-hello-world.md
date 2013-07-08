@@ -1,7 +1,9 @@
 ---
-layout: page
-title: 
-tagline: Supporting tagline
+layout: post
+title: "Hello World"
+description: "The first post of my blog"
+category: 
+tags: []
 ---
 {% include JB/setup %}
 

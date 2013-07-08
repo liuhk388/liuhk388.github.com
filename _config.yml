@@ -9,13 +9,13 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : liuhk388's Blog
 tagline: Site Tagline
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : liuhk388
+  email : liuhk388@gmail.com
+  github : liuhk388
+  twitter : liuhk388
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -129,3 +129,8 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
+## Pygments
+pygments : true
+
+## RDiscount
+markdown : rdiscount
